@@ -1,0 +1,15 @@
+.mystyle {
+background-color: #FFF5E0;
+color:#FF6969
+}
+#my-id {
+  background-color: #6C3428;
+  color: #D71313;
+  margin-left: 120px;
+  margin-right: 120px
+}
+p {
+  background-color: #CECE5A;
+  color: #982176;
+  padding:120px
+}
